@@ -5,7 +5,7 @@ title: About the Bootcamp
 
 This bootcamp will be a series of 4 deep-dive sessions on Deep Learning topics followed by a Hackathon.
 
-Project [repo](https://github.com/alkaluqman/deeplearning-bootcamp) on GitHub.
+Project repo on GitHub.
 
 ### Sessions
 1. Deep Learning Essentials

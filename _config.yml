@@ -10,7 +10,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              Alka
-  url:               https://alkaluqman.github.io
+  giturl:            'https://github.com/alkaluqman/deeplearning-bootcamp'
   email:             alka.luqman@gmail.com
 
 # Gems
