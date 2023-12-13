@@ -1,18 +1,17 @@
 ---
 layout: page
-title: About the Bootcamp
+title: Schedule
 ---
 
-This bootcamp will be a series of 4 deep-dive sessions on Deep Learning topics followed by a Hackathon.
 
-Jupyter notebooks with scaffold code will be provided for personal use.
-
-## Sessions
-1. Deep Learning Essentials
-2. Deep Learning for Regression and Classification
-3. Deep Learning for Images
-4. Deep Learning for Sequence Data (text and time series) 
-5. Hackathon
+| Session | Topic                                           | Date       |
+|---------|-------------------------------------------------|------------|
+| 1       | Deep Learning Essentials                        | 22-01-2024 |
+| 2       | Deep Learning for Regression and Classification | 05-02-2024 |
+| 3       | Deep Learning for Images                        | 19-02-2024 |
+| 4       | Deep Learning for Sequence Data                 | 11-03-2024 |
+| 5       | Hackathon                                       | 25-03-2024 |
 
 
-
+NOTE : Participants are required to bring their personal laptops.
+  

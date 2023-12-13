@@ -3,35 +3,66 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url | absolute_url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<p>Join us for an immersive learning experience designed to deepen your understanding of Deep Learning. Our bootcamp consists of four in-depth sessions covering essential topics and practical applications, followed by an exciting Hackathon to put your newfound skills to the test.</p>
+<p align="center">
+    <img src="/public/ai.png" alt="AI" width="300px">
+</p>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+<h1>Bootcamp Sessions</h1>
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
+<h3>1. Deep Learning Essentials</h3>
+<blockquote>Get started with the fundamentals of Deep Learning. Explore key concepts, architectures, and understand the foundations that make Deep Learning a powerful tool in today's technological landscape.</blockquote>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ '/' | absolute_url }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ paginator.previous_page_path | absolute_url }}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+<h3>2. Deep Learning for Regression and Classification</h3>
+<blockquote>Dive into the application side of Deep Learning. Learn how to use Deep Learning models for regression and classification tasks, gaining hands-on experience with real-world datasets.</blockquote>
+
+<h3>3. Deep Learning for Images</h3>
+<blockquote>Uncover the secrets of working with image data in Deep Learning. From image recognition to convolutional neural networks (CNNs), this session will equip you with the skills to tackle image-related challenges.</blockquote>
+
+<h3>4. Deep Learning for Sequence Data (Text and Time Series)</h3>
+<blockquote>Extend your knowledge to sequential data, including text and time series. Explore the applications of recurrent neural networks (RNNs), Long Short-Term Memory networks (LSTMs), Large Language Models (LLMs) and dive into the world of natural language processing and time series analysis.</blockquote>
+
+<h3>5. Hackathon</h3>
+<blockquote>Apply what you've learned in a dynamic and collaborative setting. The Hackathon will challenge you to solve real-world problems using Deep Learning techniques. Work individually or in teams to showcase your skills and creativity.</blockquote>
+
+<br />
+
+<p>To support your learning journey, we provide Jupyter notebooks with scaffold code for each session. Use these resources for hands-on practice during the bootcamp and keep them for future reference.</p>
+
+<p><strong>Ready to level up your Deep Learning skills? Secure your spot now and embark on this transformative learning journey with us!</strong></p>
+
+<p><a href="#registration-link">Register Now</a></p>
+
+
+<!--<div class="posts">-->
+<!--  {% for post in paginator.posts %}-->
+<!--  <div class="post">-->
+<!--    <h1 class="post-title">-->
+<!--      <a href="{{ post.url | absolute_url }}">-->
+<!--        {{ post.title }}-->
+<!--      </a>-->
+<!--    </h1>-->
+
+<!--    <span class="post-date">{{ post.date | date_to_string }}</span>-->
+
+<!--    {{ post.content }}-->
+<!--  </div>-->
+<!--  {% endfor %}-->
+<!--</div>-->
+
+<!--<div class="pagination">-->
+<!--  {% if paginator.next_page %}-->
+<!--    <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Older</a>-->
+<!--  {% else %}-->
+<!--    <span class="pagination-item older">Older</span>-->
+<!--  {% endif %}-->
+<!--  {% if paginator.previous_page %}-->
+<!--    {% if paginator.page == 2 %}-->
+<!--      <a class="pagination-item newer" href="{{ '/' | absolute_url }}">Newer</a>-->
+<!--    {% else %}-->
+<!--      <a class="pagination-item newer" href="{{ paginator.previous_page_path | absolute_url }}">Newer</a>-->
+<!--    {% endif %}-->
+<!--  {% else %}-->
+<!--    <span class="pagination-item newer">Newer</span>-->
+<!--  {% endif %}-->
+<!--</div>-->
