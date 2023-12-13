@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deep Learning Bootcamp
+title: About the Bootcamp
 ---
 
 This bootcamp will be a series of 4 deep-dive sessions on Deep Learning topics followed by a Hackathon.
@@ -14,4 +14,3 @@ Project [repo](https://github.com/alkaluqman/deeplearning-bootcamp) on GitHub.
 4. Deep Learning for Sequence Data (text and time series) 
 5. Hackathon
 
-Thanks!
