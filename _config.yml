@@ -2,16 +2,16 @@
 title:               Deep Learning Bootcamp
 tagline:             'By NTU Graduate Students'
 description:         'Website for DL bootcamp'
-url:                 https://alkaluqman.github.io/deeplearning-bootcamp
+url:                 https://ntu-dl-bootcamp.github.io/deep-learning-2024/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Alka
-  giturl:            'https://github.com/alkaluqman/deeplearning-bootcamp/tree/main/notebooks'
-  email:             alka.luqman@gmail.com
+  name:              Grads
+  giturl:            'https://github.com/ntu-dl-bootcamp/deep-learning-2024/tree/main/notebooks'
+  email:             ntu-dl-bootcamp@e.ntu.edu.sg
 
 # Gems
 plugins:
