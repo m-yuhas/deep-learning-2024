@@ -22,7 +22,7 @@ Kivanc is a second-year Ph.D. student from MSE.
 
 ### Subrat 
 ![Subrat](url_to_janes_image.jpg)
-Subrat is a second-year Ph.D. student from MSE.
+Subrat is a second-year Ph.D. student from SCSE.
 
 ### Alka
 ![Alka](url_to_janes_image.jpg)
