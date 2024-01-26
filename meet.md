@@ -5,7 +5,7 @@ title: Meet The Team
 
 
 ### Sriram
-<img src="public/team_images/sriram.png" width="200"/>
+<img src="public/team_images/sriram.png" width="200">
 
 Sriram is a first-year Ph.D. student from SCSE.
 
