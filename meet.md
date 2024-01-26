@@ -35,13 +35,14 @@ Kivanc is a second-year Ph.D. student from MSE.
 Subrat is a second-year Ph.D. student from SCSE.
 
 ### Alka
-<img src="public/team_images/alka.png" width="200"/> 
+<img src="/public/team_images/alka.png" width="200"/> 
 
 Alka is a third-year Ph.D. student from SCSE.
 
 ### Michael
-<img src="public/team_images/michael.png" width="200"/>
 
+[//]: # (<img src="./public/team_images/michael.png" width="200"/>)
+![](/public/team_images/michael.png)
 Michael is a third-year Ph.D. student from IGP.
 
 
