@@ -2,7 +2,7 @@
 title:               Deep Learning Bootcamp
 tagline:             'By NTU Graduate Students'
 description:         'Website for DL bootcamp'
-url:                 https://ntu-dl-bootcamp.github.io/deep-learning-2024/
+url:                 https://ntu-dl-bootcamp.github.io/deep-learning-2024
 baseurl:             ''
 paginate:            5
 permalink:           pretty

@@ -21,13 +21,17 @@ Eduardo is a second-year Ph.D. student from SCSE.
 Yasharth is a second-year Ph.D. student from SPMS.
 
 ### Kivanc
-<img src="public/team_images/kivanc.jpg" width="200"/> 
+
+[//]: # (<img src="public/team_images/kivanc.jpg" width="200"/> )
+
+![Kiv](public/team_images/kivanc.jpg)
 
 Kivanc is a second-year Ph.D. student from MSE.
 
 ### Subrat 
+<div>
 <img src="public/team_images/subrat.png" width="200"/> 
-
+</div>
 Subrat is a second-year Ph.D. student from SCSE.
 
 ### Alka
