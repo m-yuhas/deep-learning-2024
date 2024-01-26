@@ -5,18 +5,19 @@ title: Meet The Team
 
 
 ### Sriram
-<img src="./public/team_images/sriram.png" width="200">
+<img src="{{ site.baseurl }}/public/team_images/sriram.png" width="200">
 
 Sriram is a first-year Ph.D. student from SCSE.
 
 ### Eduardo
-<img src="public/eduardo.png" width="200"/>
+<img src="{{ site.baseurl }}/public/eduardo.png" width="200"/>
 
 Eduardo is a second-year Ph.D. student from SCSE. 
 
 ### Yasharth
-<img src="public/team_images/yasharth.png" width="200"/>
-
+<div>
+<img src="{{ site.baseurl }}/public/team_images/yasharth.png" width="200"/>
+</div>
 Yasharth is a second-year Ph.D. student from SPMS.
 
 ### Kivanc
