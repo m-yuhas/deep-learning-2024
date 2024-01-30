@@ -22,14 +22,13 @@ title: Meet The Team
   }
 </style>
 
-## Team Members
 
 <div class="team-container">
 
   <div class="team-member">
     <img src="{{site.baseurl | prepend: site.url}}public/team_images/sriram.png" alt="Sriram">
     <p>Sriram</p>
-    <p>First-year Ph.D. student from SCSE</p>
+    <p>First-year Ph.D. student from SCSE.</p>
   </div>
 
   <div class="team-member">
