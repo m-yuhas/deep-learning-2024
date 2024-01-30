@@ -3,49 +3,75 @@ layout: page
 title: Meet The Team
 ---
 
+<style>
+  .team-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
 
-### Sriram
-<img src="{{site.baseurl | prepend: site.url}}public/team_images/sriram.png" width="200">
-Sriram is a first-year Ph.D. student from SCSE.
+  .team-member {
+    width: 200px;
+    margin: 15px;
+    text-align: center;
+  }
 
-### Arpita
-<img src="{{site.baseurl | prepend: site.url}}public/team_images/arpita.png" width="200">
+  .team-member img {
+    width: 100%;
+    border-radius: 50%;
+  }
+</style>
 
-Arpita is a first-year Ph.D. student from SCSE.
+## Team Members
 
-### Eduardo
-<img src="{{site.baseurl | prepend: site.url}}public/team_images/eduardo.png" width="200"/>
+<div class="team-container">
 
-Eduardo is a second-year Ph.D. student from SCSE. 
+  <div class="team-member">
+    <img src="{{site.baseurl | prepend: site.url}}public/team_images/sriram.png" alt="Sriram">
+    <p>Sriram</p>
+    <p>First-year Ph.D. student from SCSE</p>
+  </div>
 
-### Yasharth
-<div>
-<img src="https://ntu-dl-bootcamp.github.io/deep-learning-2024/public/team_images/yasharth.png" width="200"/>
+  <div class="team-member">
+    <img src="{{site.baseurl | prepend: site.url}}public/team_images/arpita.jpeg" alt="Arpita">
+    <p>Arpita</p>
+    <p>First-year Ph.D. student from SCSE</p>
+  </div>
+
+  <div class="team-member">
+    <img src="{{site.baseurl | prepend: site.url}}public/team_images/eduardo.png" alt="Eduardo">
+    <p>Eduardo</p>
+    <p>Second-year Ph.D. student from SCSE</p>
+  </div>
+
+  <div class="team-member">
+    <img src="{{site.baseurl | prepend: site.url}}public/team_images/yasharth.png" alt="Yasharth">
+    <p>Yasharth</p>
+    <p>Second-year Ph.D. student from SPMS</p>
+  </div>
+
+  <div class="team-member">
+    <img src="{{site.baseurl | prepend: site.url}}public/team_images/kivanc.jpg" alt="Kivanc">
+    <p>Kivanc</p>
+    <p>Second-year Ph.D. student from MSE</p>
+  </div>
+
+  <div class="team-member">
+    <img src="{{site.baseurl | prepend: site.url}}public/team_images/subrat.png" alt="Subrat">
+    <p>Subrat</p>
+    <p>Second-year Ph.D. student from SCSE</p>
+  </div>
+
+  <div class="team-member">
+    <img src="{{site.baseurl | prepend: site.url}}public/team_images/alka.png" alt="Alka">
+    <p>Alka</p>
+    <p>Third-year Ph.D. student from SCSE</p>
+  </div>
+
+  <div class="team-member">
+    <img src="{{site.baseurl | prepend: site.url}}public/team_images/michael.png" alt="Michael">
+    <p>Michael</p>
+    <p>Third-year Ph.D. student from IGP</p>
+  </div>
+
 </div>
-Yasharth is a second-year Ph.D. student from SPMS.
-
-### Kivanc
-
-[//]: # (<img src="public/team_images/kivanc.jpg" width="200"/> )
-
-![Kiv](public/team_images/kivanc.jpg)
-
-Kivanc is a second-year Ph.D. student from MSE.
-
-### Subrat 
-<div>
-<img src="public/team_images/subrat.png" width="200"/> 
-</div>
-Subrat is a second-year Ph.D. student from SCSE.
-
-### Alka
-<img src="public/team_images/alka.png" width="200"/> 
-
-Alka is a third-year Ph.D. student from SCSE.
-
-### Michael
-
-[//]: # (<img src="./public/team_images/michael.png" width="200"/>)
-![](/public/team_images/michael.png)
-Michael is a third-year Ph.D. student from IGP.
-
