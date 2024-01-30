@@ -5,25 +5,22 @@ title: Meet The Team
 
 
 ### Sriram
-<p align="left">
-  <img src="public/team_images/sriram.png" width="200">
-</p>p
-
+<img src="{{site.baseurl | prepend: site.url}}public/team_images/sriram.png" width="200">
 Sriram is a first-year Ph.D. student from SCSE.
 
 ### Arpita
-<img src="public/team_images/arpita.png" width="200">
+<img src="{{site.baseurl | prepend: site.url}}public/team_images/arpita.png" width="200">
 
 Arpita is a first-year Ph.D. student from SCSE.
 
 ### Eduardo
-<img src="public/team_images/eduardo.png" width="200"/>
+<img src="{{site.baseurl | prepend: site.url}}public/team_images/eduardo.png" width="200"/>
 
 Eduardo is a second-year Ph.D. student from SCSE. 
 
 ### Yasharth
 <div>
-<img src="{{ site.baseurl }}/public/team_images/yasharth.png" width="200"/>
+<img src="https://ntu-dl-bootcamp.github.io/deep-learning-2024/public/team_images/yasharth.png" width="200"/>
 </div>
 Yasharth is a second-year Ph.D. student from SPMS.
 
