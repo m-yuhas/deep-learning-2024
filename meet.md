@@ -5,17 +5,17 @@ title: Meet The Team
 
 
 ### Sriram
-<img src="{{ site.baseurl }}/public/team_images/sriram.png" width="200">
+<img src="public/team_images/sriram.png" width="200">
 
 Sriram is a first-year Ph.D. student from SCSE.
 
 ### Arpita
-<img src="{{ site.baseurl }}/public/team_images/arpita.png" width="200">
+<img src="public/team_images/arpita.png" width="200">
 
 Arpita is a first-year Ph.D. student from SCSE.
 
 ### Eduardo
-<img src="/public/eduardo.png" width="200"/>
+<img src="public/team_images/eduardo.png" width="200"/>
 
 Eduardo is a second-year Ph.D. student from SCSE. 
 
@@ -40,7 +40,7 @@ Kivanc is a second-year Ph.D. student from MSE.
 Subrat is a second-year Ph.D. student from SCSE.
 
 ### Alka
-<img src="/public/team_images/alka.png" width="200"/> 
+<img src="public/team_images/alka.png" width="200"/> 
 
 Alka is a third-year Ph.D. student from SCSE.
 
