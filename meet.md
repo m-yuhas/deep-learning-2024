@@ -3,49 +3,49 @@ layout: page
 title: Meet The Team
 ---
 
+<style>
+    img {
+        border-radius: 50%;
+        display: block;
+        margin: 0 auto;
+    }
+</style>
 
-### Sriram
-<img src="{{ site.baseurl }}/public/team_images/sriram.png" width="200">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
 
-Sriram is a first-year Ph.D. student from SCSE.
+    <div style="text-align: center; margin: 10px;">
+        <img src="/public/team_images/sriram.png" width="150">
+        <p>Sriram is a first-year Ph.D. student from SCSE.</p>
+    </div>
 
-### Eduardo
-<img src="{{ site.baseurl }}/public/eduardo.png" width="200"/>
+    <div style="text-align: center; margin: 10px;">
+        <img src="/public/team_images/eduardo.png" width="150">
+        <p>Eduardo is a second-year Ph.D. student from SCSE.</p>
+    </div>
 
-Eduardo is a second-year Ph.D. student from SCSE. 
+    <div style="text-align: center; margin: 10px;">
+        <img src="{{ site.baseurl }}/public/team_images/yasharth.png" width="150">
+        <p>Yasharth is a second-year Ph.D. student from SPMS.</p>
+    </div>
 
-### Yasharth
-<div>
-<img src="{{ site.baseurl }}/public/team_images/yasharth.png" width="200"/>
+    <div style="text-align: center; margin: 10px;">
+        <img src="{{ site.baseurl }}/public/team_images/kivanc.jpg" width="150">
+        <p>Kivanc is a second-year Ph.D. student from MSE.</p>
+    </div>
+
+    <div style="text-align: center; margin: 10px;">
+        <img src="{{ site.baseurl }}/public/team_images/subrat.png" width="150">
+        <p>Subrat is a second-year Ph.D. student from SCSE.</p>
+    </div>
+
+    <div style="text-align: center; margin: 10px;">
+        <img src="{{ site.baseurl }}/public/team_images/alka.png" width="150">
+        <p>Alka is a third-year Ph.D. student from SCSE.</p>
+    </div>
+
+    <div style="text-align: center; margin: 10px;">
+        <img src="{{ site.baseurl }}/public/team_images/michael.png" width="150">
+        <p>Michael is a third-year Ph.D. student from IGP.</p>
+    </div>
+
 </div>
-Yasharth is a second-year Ph.D. student from SPMS.
-
-### Kivanc
-
-[//]: # (<img src="public/team_images/kivanc.jpg" width="200"/> )
-
-![Kiv](public/team_images/kivanc.jpg)
-
-Kivanc is a second-year Ph.D. student from MSE.
-
-### Subrat 
-<div>
-<img src="public/team_images/subrat.png" width="200"/> 
-</div>
-Subrat is a second-year Ph.D. student from SCSE.
-
-### Alka
-<img src="/public/team_images/alka.png" width="200"/> 
-
-Alka is a third-year Ph.D. student from SCSE.
-
-### Michael
-
-[//]: # (<img src="./public/team_images/michael.png" width="200"/>)
-![](/public/team_images/michael.png)
-Michael is a third-year Ph.D. student from IGP.
-
-
-
-
-
