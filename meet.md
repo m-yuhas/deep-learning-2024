@@ -72,7 +72,7 @@ title: Meet The Team
   <div class="team-member">
     <img src="{{site.baseurl | prepend: site.url}}public/team_images/kivanc.jpeg" alt="Kivanc">
     <p>Kivanc</p>
-    <p>Second-year Ph.D. student from MSE. Organizer of the boot camp.</p>
+    <p>Third-year Ph.D. student from MSE. Organizer of the boot camp.</p>
   </div>
 
   <div class="team-member">
