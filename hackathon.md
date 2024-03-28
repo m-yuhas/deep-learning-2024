@@ -18,5 +18,6 @@ title: Hackathon
 
 ## Theme
 
-> Coming Soon 
+*Pokemon:* can you guess a Pokemon's type given a picture and a textual description.
 
+Details available [here](https://github.com/ntu-dl-bootcamp/deep-learning-2024/blob/main/hackathon/hackathon.pdf)
